@@ -1,0 +1,1 @@
+alert("Bienvenid@ a nuestra página web. Desde Diser queremos informarles de que tienen a su disposición una nueva sección para suscripción a noticias");
